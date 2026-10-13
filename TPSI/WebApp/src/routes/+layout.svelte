@@ -7,6 +7,7 @@
 			<ul>
 			<li><a href="./">Home</a></li>
 			<li><a href="./chi_sono/">Chi sono</a></li>
+			<li><a href="./input/">Input</a></li>
 			<li><a href="./Counter">Counter</a></li>
 			<li><a href="./About">About</a></li>
 			</ul>
